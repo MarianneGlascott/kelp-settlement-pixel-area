@@ -39,3 +39,5 @@ All parameters were fixed and applied uniformly across species, seasons, and tre
 This script is provided to ensure computational transparency and reproducibility of the settlement metric used in the manuscript. All threshold values and morphological parameters were defined prior to batch processing and were not tuned on a per-image basis.
 
 This code is released under the MIT License.
+
+
